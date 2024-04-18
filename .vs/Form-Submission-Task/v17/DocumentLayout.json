@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ytman\\Desktop\\ASP .NET\\Form-Submission-Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16BB4EF2-BF37-4A22-89B7-36039AA47454}|Form-Submission-Task.csproj|c:\\users\\ytman\\desktop\\asp .net\\form-submission-task\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16BB4EF2-BF37-4A22-89B7-36039AA47454}|Form-Submission-Task.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16BB4EF2-BF37-4A22-89B7-36039AA47454}|Form-Submission-Task.csproj|c:\\users\\ytman\\desktop\\asp .net\\form-submission-task\\views\\customer\\addcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16BB4EF2-BF37-4A22-89B7-36039AA47454}|Form-Submission-Task.csproj|solutionrelative:views\\customer\\addcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16BB4EF2-BF37-4A22-89B7-36039AA47454}|Form-Submission-Task.csproj|c:\\users\\ytman\\desktop\\asp .net\\form-submission-task\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{16BB4EF2-BF37-4A22-89B7-36039AA47454}|Form-Submission-Task.csproj|solutionrelative:views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16BB4EF2-BF37-4A22-89B7-36039AA47454}|Form-Submission-Task.csproj|c:\\users\\ytman\\desktop\\asp .net\\form-submission-task\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16BB4EF2-BF37-4A22-89B7-36039AA47454}|Form-Submission-Task.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ytman\\Desktop\\ASP .NET\\Form-Submission-Task\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ytman\\Desktop\\ASP .NET\\Form-Submission-Task\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "Views\\Customer\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T07:25:11.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\ytman\\Desktop\\ASP .NET\\Form-Submission-Task\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\ytman\\Desktop\\ASP .NET\\Form-Submission-Task\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T05:43:50.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddCustomer.cshtml",
+              "DocumentMoniker": "C:\\Users\\ytman\\Desktop\\ASP .NET\\Form-Submission-Task\\Views\\Customer\\AddCustomer.cshtml",
+              "RelativeDocumentMoniker": "Views\\Customer\\AddCustomer.cshtml",
+              "ToolTip": "C:\\Users\\ytman\\Desktop\\ASP .NET\\Form-Submission-Task\\Views\\Customer\\AddCustomer.cshtml",
+              "RelativeToolTip": "Views\\Customer\\AddCustomer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-18T05:38:02.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\ytman\\Desktop\\ASP .NET\\Form-Submission-Task\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\ytman\\Desktop\\ASP .NET\\Form-Submission-Task\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T05:31:34.515Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Customer
+@using (Html.BeginForm("AddCustomer", "Customer", FormMethod.Post))
+{
+    //@Html.EditorForModel()
+    @Html.LabelFor(c => c.Name)
+    <br/>
+    @Html.EditorFor(customer => customer.Name)
+    @Html.ValidationMessageFor(c=> c.Name)
+    <br/>
+    @Html.LabelFor(customer=> customer.Email)
+    <br/>
+    @Html.EditorFor(customer => customer.Email)
+    @Html.ValidationMessageFor(c => c.Email)
+    <br/>
+    @Html.LabelFor(customer=> customer.Phone)
+    <br/>
+    @Html.EditorFor(customer => customer.Phone)
+    @Html.ValidationMessageFor(c => c.Phone)
+    <br/>
+    @Html.LabelFor(customer=> customer.DateOfBirth)
+    <br/>
+    @Html.EditorFor(customer => customer.DateOfBirth)
+    @Html.ValidationMessageFor(c => c.DateOfBirth)
+    <br/>
+    <label for="favColor">Favorite Color</label>
+    <br/>
+    <input type="color" id="favColor" name="FavoriteColor" required />
+    <br/>
+    <button class="btn btn-primary" type="submit">save</button>
+}
